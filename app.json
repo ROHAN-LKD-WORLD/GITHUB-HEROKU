@@ -33,7 +33,7 @@
     },
     "DAXX_API": {
       "description": "NEED DAXX_API GO TO @IAM_DAXXBOT",
-      "required": true
+      "required": false
     },
     "HEROKU_API": {
       "description": "Your Heroku API Key",
